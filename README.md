@@ -52,9 +52,7 @@ Main Components:
 <h2>📸 Screenshots</h2>
 <p>Add your screenshots here with HTML img tags</p>
 
-<h2>📝 License</h2>
-<p>This project is licensed under the MIT License.</p>
 
 <h2>✉️ Contact</h2>
-<p>Your Name - your.email@example.com</p>
-<p>Project Link: https://github.com/yourusername/fall-detection-app</p>
+<p>Zakaria Attalah - zakiatt40@gmail.com</p>
+
