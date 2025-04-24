@@ -51,10 +51,10 @@ Main Components:
 
 <h2>📸 Screenshots</h2>
 <div>
-  <img src="screenshotHome.png" alt="Fall Detection Home Screen" width="300">
+  <img src="screenshotHome.jpg" alt="Fall Detection Home Screen" width="300">
   <p><strong>Home Screen:</strong> Real-time acceleration graph and emergency options.</p>
 
-  <img src="screenshotAlert.png" alt="Fall Alert Screen" width="300">
+  <img src="screenshotAlert.jpg" alt="Fall Alert Screen" width="300">
   <p><strong>Alert Screen:</strong> Countdown and location alert trigger.</p>
 </div>
 
