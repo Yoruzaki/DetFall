@@ -50,7 +50,12 @@ Main Components:
 </ol>
 
 <h2>📸 Screenshots</h2>
-<p>Add your screenshots here with HTML img tags</p>
+<div>
+  <img src="screenshotHome.png" alt="Fall Detection Home Screen" width="300">
+  <p><strong>Home Screen:</strong> Real-time acceleration graph and emergency options.</p>
 
+  <img src="screenshotAlert.png" alt="Fall Alert Screen" width="300">
+  <p><strong>Alert Screen:</strong> Countdown and location alert trigger.</p>
+</div>
 
 
