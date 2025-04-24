@@ -53,6 +53,4 @@ Main Components:
 <p>Add your screenshots here with HTML img tags</p>
 
 
-<h2>✉️ Contact</h2>
-<p>Zakaria Attalah - zakiatt40@gmail.com</p>
 
